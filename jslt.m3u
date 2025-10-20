@@ -1,0 +1,139 @@
+﻿#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1,tvg-name="CCTV1" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV1.png" group-title="🇨🇳 央 视",CCTV1
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV2" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV2.png" group-title="🇨🇳 央 视",CCTV2
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFEu0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV3" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV3.png" group-title="🇨🇳 央 视",CCTV3
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgPYh7UYWZPIIdnB%2FiAqXWou0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV4" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV4.png" group-title="🇨🇳 央 视",CCTV4
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaYUhARSOAZvaB4bPLfRG0u0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV5" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV5.png" group-title="🇨🇳 央 视",CCTV5
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEozMH5mDAJP6SltbUTv3nN8u0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV6" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV6.png" group-title="🇨🇳 央 视",CCTV6
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuwxwaoCGJY2cCtI9leQXrQu0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV7" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV7.png" group-title="🇨🇳 央 视",CCTV7
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo%2FnZmofd%2BrCFtc8Q50vu3Au0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV8" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV8.png" group-title="🇨🇳 央 视",CCTV8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsFjysg6lHm9n5%2FvwbWNDQ0u0HPDaI8IXtpvkDaFJ1bH&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV9" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV9.png" group-title="🇨🇳 央 视",CCTV9
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElGagliwFIk%2BluGBbGdVUbc02fQ712gaPW1S8iZfrxPb&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV10" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV10.png" group-title="🇨🇳 央 视",CCTV10
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErwM4PQmmUbDAbEG18NJ7ON4LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV11" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV11.png" group-title="🇨🇳 央 视",CCTV11
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEglwOR0THVROxuCQpsWEgp14LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV12" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV12.png" group-title="🇨🇳 央 视",CCTV12
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvskw9SxptiBzf0Vc8ipYKN4LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV13" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV13.png" group-title="🇨🇳 央 视",CCTV13
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkjL6a8QWp3FPxxMdEg8%2F3R4LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV14" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV14.png" group-title="🇨🇳 央 视",CCTV14
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo3RDHuXMRWK8VyFam4v%2FtV4LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV15" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV15.png" group-title="🇨🇳 央 视",CCTV15
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEr2cMh1na7Xi9YCb22Tii5B4LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV16" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV16.png" group-title="🇨🇳 央 视",CCTV16
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj7L5TMaaLEN8QSSnoeVsO94LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="CCTV17" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV17.png" group-title="🇨🇳 央 视",CCTV17
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZuARt3SsS1lp07gslq8B54LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-,tvg-name="CCTV5+" tvg-logo="http://192.168.9.11:65402/tv/logo/CCTV5+.png" group-title="🇨🇳 央 视",CCTV5+
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEp4x3ZVhpAE%2BHYVoOre4TusAXe%2BeZvUgolzXkq%2By75Rg&amp;p=GITV&amp;area=JS_CUCC
+
+
+
+
+#EXTINF:-1,tvg-name="北京卫视" tvg-logo="http://192.168.9.11:65402/tv/logo/北京卫视.png" group-title="🛰 卫 视",北京卫视
+http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt6ptYCV0fCKRLa0se%2BHo4x4LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="湖南卫视" tvg-logo="http://192.168.9.11:65402/tv/logo/湖南卫视.png" group-title="🛰 卫 视",湖南卫视
+http://122.96.52.98:8006/JS_CUCC/HNWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEv%2FBvc4PvDgO7DYGtrmNF0Wb81ufElMrCkVylhMcfT%2BR&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="东方卫视" tvg-logo="http://192.168.9.11:65402/tv/logo/东方卫视.png" group-title="🛰 卫 视",东方卫视
+http://122.96.52.98:8006/JS_CUCC/DFWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi8DhBjIbitRWnzDWibuAPGb81ufElMrCkVylhMcfT%2BR&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="广东卫视" tvg-logo="http://192.168.9.11:65402/tv/logo/广东卫视.png" group-title="🛰 卫 视",广东卫视
+http://122.96.52.98:8006/JS_CUCC/GDWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEh8Yy3cOy6MW1YL04NuPMnWb81ufElMrCkVylhMcfT%2BR&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="浙江卫视" tvg-logo="http://192.168.9.11:65402/tv/logo/浙江卫视.png" group-title="🛰 卫 视",浙江卫视
+http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnEBbogY8aw6bJAEBjs4erib81ufElMrCkVylhMcfT%2BR&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1,tvg-name="山东卫视" tvg-logo="http://192.168.9.11:65402/tv/logo/山东卫视.png" group-title="🛰 卫 视",山东卫视
+http://122.96.52.98:8006/JS_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhzmA3bkY8uR2T6FfCfBDoiFQDG8TIJt2CZVMmGDJyl6&amp;p=GITV&amp;area=JS_CUCC$超清
+
+#EXTINF:-1,tvg-name="江苏卫视" tvg-logo="http://192.168.9.11:65402/tv/logo/江苏卫视.png" group-title="🛰 卫 视",江苏卫视
+http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu%2B73CN7TjP4aPry8BxkIZp4LedphZzylPEmlN2UDQol&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1, tvg-name="江苏综艺" tvg-logo="http://192.168.9.11:65402/tv/logo/江苏综艺.png" group-title="🏯 地 方",江苏综艺
+http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
+
+#EXTINF:-1, tvg-name="江苏城市" tvg-logo="http://192.168.9.11:65402/tv/logo/江苏城市.png" group-title="🏯 地 方",江苏城市
+http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
+
+#EXTINF:-1, tvg-name="江苏新闻" tvg-logo="http://192.168.9.11:65402/tv/logo/江苏新闻.png" group-title="🏯 地 方",江苏新闻
+http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
+
+#EXTINF:-1, tvg-name="江苏影视" tvg-logo="http://192.168.9.11:65402/tv/logo/江苏影视.png" group-title="🏯 地 方",江苏影视
+http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
+
+#EXTINF:-1, tvg-name="江苏体育休闲" tvg-logo="http://192.168.9.11:65402/tv/logo/江苏体育休闲.png" group-title="🏯 地 方",江苏体育休闲
+http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
+
+#EXTINF:-1, tvg-name="江苏教育" tvg-logo="http://192.168.9.11:65402/tv/logo/江苏教育.png" group-title="🏯 地 方",江苏教育
+http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
+
+#EXTINF:-1, tvg-name="南京新闻综合" tvg-logo="http://192.168.9.11:65402/tv/logo/南京新闻综合.png" group-title="🏯 地 方",南京新闻综合
+http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1, tvg-name="南京十八生活" tvg-logo="http://192.168.9.11:65402/tv/logo/南京十八生活.png" group-title="🏯 地 方",南京十八生活
+http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqlM1l%2BeoFKI8wnHz%2FUgbsbEl4iMNl0LfXN60kch0at8&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1, tvg-name="南京教科" tvg-logo="http://192.168.9.11:65402/tv/logo/南京教科.png" group-title="🏯 地 方",南京教科
+http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiGqx7T0gmg2iKRDXWqfssbEl4iMNl0LfXN60kch0at8&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1, tvg-name="南京文旅纪录" tvg-logo="http://192.168.9.11:65402/tv/logo/南京文旅纪录.png" group-title="🏯 地 方",南京文旅纪录
+http://122.96.52.98:8006/JS_CUCC/G_NJYL.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjFqfQRndUrBSsUh%2BqRc5aPEl4iMNl0LfXN60kch0at8&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1, tvg-name="南京影视" tvg-logo="http://192.168.9.11:65402/tv/logo/南京影视.png" group-title="🏯 地 方",南京影视
+http://122.96.52.98:8006/JS_CUCC/G_NJYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEryOYppBCaGCbwBoicbAMYfEl4iMNl0LfXN60kch0at8&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1, tvg-name="南京少儿" tvg-logo="http://192.168.9.11:65402/tv/logo/南京少儿.png" group-title="🏯 地 方",南京少儿
+http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErV9ZZLHPB2iNJDmdQ9xIhzEl4iMNl0LfXN60kch0at8&amp;p=GITV&amp;area=JS_CUCC
+
+#EXTINF:-1, tvg-name="盐城1台" tvg-logo="http://192.168.9.11:65402/tv/logo/盐城1台.png" group-title="🏯 地 方",盐城1台
+http://122.97.211.133:8112/JSBC_iptv/C10000234@JSBC
+
+#EXTINF:-1, tvg-name="武术世界" tvg-logo="http://192.168.9.11:65402/tv/logo/武术世界.png" group-title="🏯 地 方",武术世界
+http://112.86.202.37:8112/JSBC_iptv/C10000236@JSBC
+
+#EXTINF:-1,tvg-name="东方财经" tvg-logo="http://192.168.9.11:65402/tv/logo/东方财经.png" group-title="🏯 地 方",东方财经
+http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
+
+
+#EXTINF:-1,tvg-name="凤凰中文" tvg-logo="http://192.168.9.11:65402/tv/logo/凤凰中文.png" group-title="🇭🇰 港 台",凤凰中文
+http://192.168.9.11:65401/fhx.php?id=fhzw
+
+#EXTINF:-1,tvg-name="凤凰资讯" tvg-logo="http://192.168.9.11:65402/tv/logo/凤凰资讯.png" group-title="🇭🇰 港 台",凤凰资讯
+http://192.168.9.11:65401/fhx.php?id=fhzx
+
+#EXTINF:-1,tvg-name="凤凰香港" tvg-logo="http://192.168.9.11:65402/tv/logo/凤凰香港.png" group-title="🇭🇰 港 台",凤凰香港
+http://192.168.9.11:65401/fhx.php?id=fhhk
+
+
+
+
+
